@@ -1,0 +1,16 @@
+{
+  "name": "delivery",
+  "version": "1.0.0",
+  "description": "Una app para saber que tanto he aprendido.",
+  "main": "src/index.js",
+  "author": "Santiago Salazar",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  },
+  "scripts": {
+    "test": "src/index.js"
+  }
+}
